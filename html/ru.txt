@@ -1,0 +1,1926 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html itemscope itemtype="http://schema.org/CreativeWork">
+
+<head>
+<title>Каомодзи: японские смайлики</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="description" content="Интересная коллекция японских смайликов каомодзи." />
+<meta name="keywords" content="японские, смайлики, каомодзи, kaomoji" />
+
+<meta itemprop="name" content="Каомодзи: японские смайлики">
+<meta itemprop="description" content="Интересная коллекция японских смайликов каомодзи.">
+<meta itemprop="image" content="/images/scrolltop.png">
+
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<link rel="stylesheet" type="text/css" href="kaomoji.css" />
+<script async type="text/javascript" src="tooltip.js"></script>
+
+<!-- <script type="text/javascript" src="http://userapi.com/js/api/openapi.js?49"></script>
+<script type="text/javascript">
+  VK.init({apiId: 2994613, onlyWidgets: true});
+</script> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBMSEJ4PYM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LBMSEJ4PYM');
+</script>
+
+</head>
+
+<body>
+
+<!-- <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> -->
+
+<div id="logo">
+<span class="hotspot" onmouseover="tooltip.show('<table><tr><td><img src=\'images/smilex.jpg\' alt=\'smilex\' width=\'100\' height=\'100\' /></td><td>Добро пожаловать!<br /><br />Не стесняйтесь использовать понравившиеся Вам японские смайлики для общения с друзьями, родными и близкими!</td></tr></table>');" onmouseout="tooltip.hide();">
+<a href=""></a>
+</span>
+</div>
+
+<div id="content">
+<h1>Каомодзи: японские смайлики</h1>
+<p><strong>Каомодзи</strong> (顔文字) представляет собой японский стиль изображения смайликов, построенный на основе иероглифов кандзи, пунктуационных знаков и прочих символов, и используемый для выражения эмоций при общении в киберпространстве. По сути, это синоним <b>японских смайликов</b>. Образуется сочетанием слов: kao (顔 – лицо) + moji (文字 – символ, письменный знак).</p>
+<p>Японцы – очень эмоциональная и креативная нация. Поэтому в Японии смайлики распространены как нигде в мире.</p>
+<p>По мнению японцев, глаза являются зеркалом души человека. Поэтому, если в западных смайликах наибольшее внимание уделяется рту, в японских - именно глазам. Кроме того, в отличие от западных смайликов, <b>каомодзи</b> не нужно мысленно разворачивать на 90 градусов.</p>
+<p>Многие японцы хорошо рисуют, ведь японский язык – язык рисунков. На примере аниме и манги видно, насколько точно авторам удаётся передавать разнообразные эмоции персонажей набором всего нескольких простых линий.</p>
+<p>На заре интернета и средств обмена мгновенными сообщениями недостаток общения лицом к лицу приводил к различного рода недопониманиям. <b>Каомодзи</b> явился успешной креативной попыткой фанатов манги и аниме исправить данную ситуацию.</p>
+<p><strong>Японские смайлики</strong> крайне разнообразны. В Интернете можно встретить цифру 10000, но на самом деле их гораздо больше. Такое многообразие объясняется как минимум двумя факторами:
+<ul>
+<li>в отличие от кириллицы и латиницы, которые чаще всего записываются в однобайтовых кодировках, японскому письму необходимы как минимум двухбайтовые кодировки, имеющие более широкий охват символов;</li>
+<li><b>каомодзи</b> могут обозначать не только отдельные эмоции, но и сложные действия, а их комбинации – даже целые истории.</li>
+</ul>
+</p>
+<p><b>Каомодзи</b> делятся на категории в зависимости от эмоциональной составляющей, вида обозначаемого действия либо объекта. Также в этих смайликах часто можно встретить иероглифы, несущие дополнительную смысловую окраску.</p> 
+<p>На сайте представлена интересная коллекция <b>японских смайликов каомодзи</b>, собранная из различных (в основном японских) источников Интернета. Так как все <b>японские смайлы</b> собрать невозможно, командой проекта были выбраны наиболее интересные варианты и их сочетания, а также добавлены собственные. Кроме того, имеется и соответствующее приложение для Android.</p>
+<p><a name="contents"></a>В общем, не стесняйтесь использовать понравившиеся Вам <b>японские смайлики</b>. Комбинируйте элементы различных <b>каомодзи</b> и создавайте собственные креативные варианты!</p>
+<br />
+
+<!-- <table class="neotable">
+<tr>
+<td style="width:120px;padding-left:10px">
+<div id="vk_like"></div>
+<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "mini", height: 24, pageUrl: "http://kaomoji.ru", pageImage: "http://kaomoji.ru/images/kaomoji_button.png"});
+</script>
+</td>
+<td style="width:120px"><div style="margin-bottom:-8px" class="fb-like" data-href="http://kaomoji.ru" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false"></div></td>
+<td style="width:100px">
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://kaomoji.ru" data-text="☆ ～('▽^人) Интересная коллекция японских смайликов каомодзи." data-lang="ru" data-related="innocentsmilex">Твитнуть</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td>
+</tr>
+</table> -->
+
+<br />
+<center><h2>Категории каомодзи</h2></center>
+<div class="mobile_friendly">
+<table class="table_column">
+<tr>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/positive.jpg\' alt=\'positive\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#positive">Положительные эмоции</a></span>
+<ul>
+	<li><a href="#joy">радость</a></li>
+	<li><a href="#love">любовь</a></li>
+	<li><a href="#embarrassment">смущение</a></li>
+	<li><a href="#sympathy">сочувствие</a></li>
+</ul>
+</td>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/negative.jpg\' alt=\'negative\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#negative">Отрицательные эмоции</a></span>
+<ul>
+	<li><a href="#dissatisfaction">недовольство</a></li>
+	<li><a href="#anger">злость</a></li>
+	<li><a href="#sadness">печаль</a></li>
+	<li><a href="#pain">боль</a></li>
+	<li><a href="#fear">страх</a></li>
+</ul>
+</td>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/neutral.jpg\' alt=\'neutral\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#neutral">Нейтральные эмоции</a></span>
+<ul>
+	<li><a href="#indifference">безразличие</a></li>
+	<li><a href="#confusion">замешательство</a></li>
+	<li><a href="#doubt">сомнение</a></li>
+	<li><a href="#surprise">удивление</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/actions.jpg\' alt=\'actions\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#actions">Различные действия</a></span>
+<ul>
+	<li><a href="#greeting">приветствие</a></li>
+	<li><a href="#hugging">обнимашки</a></li>
+	<li><a href="#winking">подмигивание</a></li>
+	<li><a href="#apologizing">извинение</a></li>
+	<li><a href="#nosebleeding">кровь из носа</a></li>
+	<li><a href="#hiding">прятки</a></li>
+	<li><a href="#writing">письмо</a></li>
+	<li><a href="#running">бег</a></li>
+	<li><a href="#sleeping">сон</a></li>	
+</ul>
+</td>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/animals.jpg\' alt=\'animals\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#animals">Животные</a></span>
+<ul>
+	<li><a href="#cat">кошка</a></li>
+	<li><a href="#bear">медведь</a></li>
+	<li><a href="#dog">собака</a></li>
+	<li><a href="#rabbit">кролик</a></li>
+	<li><a href="#pig">свинья</a></li>
+	<li><a href="#bird">птица</a></li>
+	<li><a href="#fish">рыба</a></li>
+	<li><a href="#spider">паук</a></li>
+</ul>
+</td>
+<td>
+<span class="hotspot" onmouseover="tooltip.show('<img src=\'images/other.jpg\' alt=\'other\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#other">Прочие вариации</a></span>
+<ul>
+	<li><a href="#friends">друзья</a></li>
+	<li><a href="#enemies">враги</a></li>
+	<li><a href="#weapons">оружие</a></li>
+	<li><a href="#magic">магия</a></li>
+	<li><a href="#food">еда</a></li>
+	<li><a href="#music">музыка</a></li>
+	<li><a href="#games">игры</a></li>
+	<li><a href="#faces">лица</a></li>
+	<li><a href="#special">особые</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p class="new">☆☆☆ <span class="hotspot" onmouseover="tooltip.show('<img src=\'images/android.jpg\' alt=\'Японские смайлики для Android\' width=\'240\' height=\'150\' />');" onmouseout="tooltip.hide();"><a href="#android"><u>Японские смайлики для Android</u></a></span> ☆☆☆</p>
+<!-- <p>Коллекция японских смайликов каомодзи будет непрерывно обновляться! Если Вы хотите узнать больше информации о проекте kaomoji.ru, загляните <a href="#information">сюда</a>.</p> -->
+<p>Коллекция смайликов периодически обновляется. Оставайтесь с нами!</p>
+<p>Внимание! Все каомодзи набраны с использованием японских шрифтов. Если японские смайлики у Вас отображаются некорректно, настройте поддержку восточноазиатских языков в Вашей операционной системе.</p>
+<br />
+
+<h2><a name="positive">Японские смайлики каомодзи: положительные эмоции</a></h2>
+<h3><a name="joy">Радость</a></h3>
+<p>В японских смайликах, изображающих радость (смех, улыбку, удовольствие, восторг) глаза, как правило, располагаются высоко. При этом чаще всего используются символы ^, ￣, ´ и `, но не всегда. Рот тоже играет немаловажную роль. Например, молодые японки часто используют символ ω (омега) в качестве рта своих японских смайликов, считая, что такие каомодзи самые милые, или, как они говорят, кавайные (kawaii). Также можно использовать ∀, ▽ и другие символы, напоминающие улыбку. А ещё японцы любят добавлять в каомодзи различные спецэффекты (звёздочки, слёзы радости и прочее) для большей выразительности.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(* ^ ω ^)</span></td>
+		<td><span>(´ ∀ ` *)</span></td>
+		<td><span>٩(◕‿◕｡)۶</span></td>
+		<td><span>☆*:.｡.o(≧▽≦)o.｡.:*☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(o^▽^o)</span></td>
+		<td><span>(⌒▽⌒)☆</span></td>
+		<td><span><(￣︶￣)></span></td>
+		<td><span>。.:☆*:･'(*⌒―⌒*)))</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(・∀・)ﾉ</span></td>
+		<td><span>(´｡• ω •｡`)</span></td>
+		<td><span>(￣ω￣)</span></td>
+		<td><span>｀;:゛;｀;･(°ε° )</span></td>
+	</tr>
+	<tr>
+		<td><span>(o･ω･o)</span></td>
+		<td><span>(＠＾◡＾)</span></td>
+		<td><span>ヽ(*・ω・)ﾉ</span></td>
+		<td><span>(o_ _)ﾉ彡☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(^人^)</span></td>
+		<td><span>(o´▽`o)</span></td>
+		<td><span>(*´▽`*)</span></td>
+		<td><span>｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡</span></td>
+	</tr>
+	<tr>
+		<td><span>( ´ ω ` )</span></td>
+		<td><span>(((o(*°▽°*)o)))</span></td>
+		<td><span>(≧◡≦)</span></td>
+		<td><span>(o´∀`o)</span></td>
+	</tr>
+	<tr>
+		<td><span>(´• ω •`)</span></td>
+		<td><span>(＾▽＾)</span></td>
+		<td><span>(⌒ω⌒)</span></td>
+		<td><span>∑d(°∀°d)</span></td>
+	</tr>
+	<tr>
+		<td><span>╰(▔∀▔)╯</span></td>
+		<td><span>(─‿‿─)</span></td>
+		<td><span>(*^‿^*)</span></td>
+		<td><span>ヽ(o^ ^o)ﾉ</span></td>
+	</tr>
+	<tr>
+		<td><span>(✯◡✯)</span></td>
+		<td><span>(◕‿◕)</span></td>
+		<td><span>(*≧ω≦*)</span></td>
+		<td><span>(☆▽☆)</span></td>
+	</tr>
+	<tr>
+		<td><span>(⌒‿⌒)</span></td>
+		<td><span>＼(≧▽≦)／</span></td>
+		<td><span>ヽ(o＾▽＾o)ノ</span></td>
+		<td><span>☆ ～('▽^人)</span></td>
+	</tr>
+	<tr>
+		<td><span>(*°▽°*)</span></td>
+		<td><span>٩(｡•́‿•̀｡)۶</span></td>
+		<td><span>(✧ω✧)</span></td>
+		<td><span>ヽ(*⌒▽⌒*)ﾉ</span></td>
+	</tr>
+	<tr>
+		<td><span>(´｡• ᵕ •｡`)</span></td>
+		<td><span>( ´ ▽ ` )</span></td>
+		<td><span>(￣▽￣)</span></td>
+		<td><span>╰(*´︶`*)╯</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(>∀<☆)ノ</span></td>
+		<td><span>o(≧▽≦)o</span></td>
+		<td><span>(☆ω☆)</span></td>
+		<td><span>(っ˘ω˘ς )</span></td>
+	</tr>
+	<tr>
+		<td><span>＼(￣▽￣)／</span></td>
+		<td><span>(*¯︶¯*)</span></td>
+		<td><span>＼(＾▽＾)／</span></td>
+		<td><span>٩(◕‿◕)۶</span></td>
+	</tr>
+	<tr>
+		<td><span>(o˘◡˘o)</span></td>
+		<td><span>\(★ω★)/</span></td>
+		<td><span>\(^ヮ^)/</span></td>
+		<td><span>(〃＾▽＾〃)</span></td>
+	</tr>
+	<tr>
+		<td><span>(╯✧▽✧)╯</span></td>
+		<td><span>o(>ω<)o</span></td>
+		<td><span>o( ❛ᴗ❛ )o</span></td>
+		<td><span>｡ﾟ(TヮT)ﾟ｡</span></td>
+	</tr>
+	<tr>
+		<td><span>( ‾́ ◡ ‾́ )</span></td>
+		<td><span>(ﾉ´ヮ`)ﾉ*: ･ﾟ</span></td>
+		<td><span>(b ᵔ▽ᵔ)b</span></td>
+		<td><span>(๑˃ᴗ˂)ﻭ</span></td>
+	</tr>
+	<tr>
+		<td><span>(๑˘︶˘๑)</span></td>
+		<td><span>( ˙꒳​˙ )</span></td>
+		<td><span>(*꒦ິ꒳꒦ີ)</span></td>
+		<td><span>°˖✧◝(⁰▿⁰)◜✧˖°</span></td>
+	</tr>
+	<tr>
+		<td><span>(´･ᴗ･ ` )</span></td>
+		<td><span>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</span></td>
+		<td><span>(„• ֊ •„)</span></td>
+		<td><span>(.❛ ᴗ ❛.)</span></td>
+	</tr>
+	<tr>
+		<td><span>(⁀ᗢ⁀)</span></td>
+		<td><span>(￢‿￢ )</span></td>
+		<td><span>(¬‿¬ )</span></td>
+		<td><span>(*￣▽￣)b</span></td>
+	</tr>
+	<tr>
+		<td><span>( ˙▿˙ )</span></td>
+		<td><span>(¯▿¯)</span></td>
+		<td><span>( ◕▿◕ )</span></td>
+		<td><span>＼(٥⁀▽⁀ )／</span></td>
+	</tr>
+	<tr>
+		<td><span>(„• ᴗ •„)</span></td>
+		<td><span>(ᵔ◡ᵔ)</span></td>
+		<td><span>( ´ ▿ ` )</span></td>
+		<td><span>(๑>◡<๑)</span></td>
+	</tr>
+	<tr>
+		<td><span>( = ⩊ = )</span></td>
+		<td><span>( ´ ꒳ ` )</span></td>
+		<td><span>⸜( ´ ꒳ ` )⸝</span></td>
+		<td><span>⸜(⸝⸝⸝´꒳`⸝⸝⸝)⸝</span></td>
+	</tr>
+	<tr>
+		<td><span>⸜(*ˊᗜˋ*)⸝</span></td>
+		<td><span>⸜( *ˊᵕˋ* )⸝</span></td>
+		<td><span>(>⩊<)</span></td>
+		<td><span>(ᗒ⩊ᗕ)</span></td>
+	</tr>
+	<tr>
+		<td><span>(ᵔ⩊ᵔ)</span></td>
+		<td><span>( ᵔ ⩊ ᵔ )</span></td>
+		<td><span>(•⩊•)</span></td>
+		<td><span>( • ⩊ • )</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="love">Любовь</a></h3>
+<p>Влюблённые японские смайлики часто используют символ ♡ (сердце) или комбинации с ним, например, ノ～ ♡ (воздушный поцелуй). Также для изображения поцелуя можно использовать набор букв chu (в Японии он ассоциируется со звуком поцелуя). Ещё одной отличительной чертой японских смайликов, изображающих любовь, является изобилие символов * и o, обозначающих румянец и часто использующихся в сочетании с /, \, ノ, ﾉ и ヽ. То есть эти смайлики как бы закрывают руками лицо от смущения. В сочетании с так называемыми "руками" используется и символ ε (губки бантиком), но здесь подразумевается желание обнять и поцеловать. Японки часто шутят, говоря, что такие каомодзи похожи на извращенцев!</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(ﾉ´ з `)ノ</span></td>
+		<td><span>(♡μ_μ)</span></td>
+		<td><span>(*^^*)♡</span></td>
+		<td><span>☆⌒ヽ(*'､^*)chu</span></td>
+	</tr>
+	<tr>
+		<td><span>(♡-_-♡)</span></td>
+		<td><span>(￣ε￣＠)</span></td>
+		<td><span>ヽ(♡‿♡)ノ</span></td>
+		<td><span>( ´ ∀ `)ノ～ ♡</span></td>
+	</tr>
+	<tr>
+		<td><span>(─‿‿─)♡</span></td>
+		<td><span>(´｡• ᵕ •｡`) ♡</span></td>
+		<td><span>(*♡∀♡)</span></td>
+		<td><span>(｡・//ε//・｡)</span></td>
+	</tr>
+	<tr>
+		<td><span>(´ ω `♡)</span></td>
+		<td><span>♡( ◡‿◡ )</span></td>
+		<td><span>(◕‿◕)♡</span></td>
+		<td><span>(/▽＼*)｡o○♡</span></td>
+	</tr>
+	<tr>
+		<td><span>(ღ˘⌣˘ღ)</span></td>
+		<td><span>(♡°▽°♡)</span></td>
+		<td><span>♡(｡- ω -)</span></td>
+		<td><span>♡ ～('▽^人)</span></td>
+	</tr>
+	<tr>
+		<td><span>(´• ω •`) ♡</span></td>
+		<td><span>(´ ε ` )♡</span></td>
+		<td><span>(´｡• ω •｡`) ♡</span></td>
+		<td><span>( ´ ▽ ` ).｡ｏ♡</span></td>
+	</tr>
+	<tr>
+		<td><span>╰(*´︶`*)╯♡</span></td>
+		<td><span>(*˘︶˘*).｡.:*♡</span></td>
+		<td><span>(♡˙︶˙♡)</span></td>
+		<td><span>♡＼(￣▽￣)／♡</span></td>
+	</tr>
+	<tr>
+		<td><span>(≧◡≦) ♡</span></td>
+		<td><span>(⌒▽⌒)♡</span></td>
+		<td><span>(*¯ ³¯*)♡</span></td>
+		<td><span>(っ˘з(˘⌣˘ ) ♡</span></td>
+	</tr>
+	<tr>
+		<td><span>♡ (˘▽˘>ԅ( ˘⌣˘)</span></td>
+		<td><span>( ˘⌣˘)♡(˘⌣˘ )</span></td>
+		<td><span>(/^-^(^ ^*)/ ♡</span></td>
+		<td><span>٩(♡ε♡)۶</span></td>
+	</tr>
+	<tr>
+		<td><span>σ(≧ε≦σ) ♡</span></td>
+		<td><span>♡ (⇀ 3 ↼)</span></td>
+		<td><span>♡ (￣З￣)</span></td>
+		<td><span>(❤ω❤)</span></td>
+	</tr>
+	<tr>
+		<td><span>(˘∀˘)/(μ‿μ) ❤</span></td>
+		<td><span>❤ (ɔˆз(ˆ⌣ˆc)</span></td>
+		<td><span>(´♡‿♡`)</span></td>
+		<td><span>(°◡°♡)</span></td>
+	</tr>
+	<tr>
+		<td><span>Σ>―(〃°ω°〃)♡→</span></td>
+		<td><span>(´,,•ω•,,)♡</span></td>
+		<td><span>(´꒳`)♡</span></td>
+		<td><span>♡(>ᴗ•)</span></td>
+	</tr>
+	<tr>
+		<td><span>(❤⩊❤)[=_=](☆ε☆)</span></td>
+		<td><span>( ´ ꒳ ` ) ♡</span></td>
+		<td><span>(˘˘ ♡)</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="embarrassment">Смущение</a></h3>
+<p>Чтобы показать смущение, можно использовать символ ; (что-то вроде капли пота на лице) либо символы, имитирующие румянец (*, o). Кроме того, можете попробовать изобразить, как японский смайлик прикрывает лицо руками от смущения.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(⌒_⌒;)</span></td>
+		<td><span>(o^ ^o)</span></td>
+		<td><span>(*/ω＼)</span></td>
+		<td><span>(*/。＼)</span></td>
+	</tr>
+	<tr>
+		<td><span>(*/_＼)</span></td>
+		<td><span>(*ﾉωﾉ)</span></td>
+		<td><span>(o-_-o)</span></td>
+		<td><span>(*μ_μ)</span></td>
+	</tr>
+	<tr>
+		<td><span>( ◡‿◡ *)</span></td>
+		<td><span>(ᵔ.ᵔ)</span></td>
+		<td><span>(*ﾉ∀`*)</span></td>
+		<td><span>(//▽//)</span></td>
+	</tr>
+	<tr>
+		<td><span>(//ω//)</span></td>
+		<td><span>(ノ*°▽°*)</span></td>
+		<td><span>(*^.^*)</span></td>
+		<td><span>(*ﾉ▽ﾉ)</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣▽￣*)ゞ</span></td>
+		<td><span>(⁄ ⁄•⁄ω⁄•⁄ ⁄)</span></td>
+		<td><span>(*/▽＼*)</span></td>
+		<td><span>(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</span></td>
+	</tr>
+	<tr>
+		<td><span>(„ಡωಡ„)</span></td>
+		<td><span>(ง ื▿ ื)ว</span></td>
+		<td><span>( 〃▽〃)</span></td>
+		<td><span>(/▿＼ )</span></td>
+	</tr>
+	<tr>
+		<td><span>(///￣ ￣///)</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="sympathy">Сочувствие</a></h3>
+<p>Для выражения сочувствия или сострадания нужны как минимум два японских смайлика: один из них будет чем-то расстроен, а другой будет его успокаивать. Для первого типа можно использовать каомодзи из категориии "грусть". Ключевым элементом второго будет выступать "успокаивающее поглаживание рукой" (ノ”, ノ’ или ヾ) либо "плечо поддержки" (смотрите примеры).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(ノ_<。)ヾ(´ ▽ ` )</span></td>
+		<td><span>｡･ﾟ･(ﾉД`)ヽ(￣ω￣ )</span></td>
+		<td><span>ρ(- ω -、)ヾ(￣ω￣; )</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(￣ω￣(。。 )ゝ</span></td>
+		<td><span>(*´ I `)ﾉﾟ(ﾉД｀ﾟ)ﾟ｡</span></td>
+		<td><span>ヽ(~_~(・_・ )ゝ</span></td>
+	</tr>
+	<tr>
+		<td><span>(ﾉ_；)ヾ(´ ∀ ` )</span></td>
+		<td><span>(; ω ; )ヾ(´∀`* )</span></td>
+		<td><span>(*´ー)ﾉ(ノд`)</span></td>
+	</tr>
+	<tr>
+		<td><span>(´-ω-`( _ _ )</span></td>
+		<td><span>(っ´ω`)ﾉ(╥ω╥)</span></td>
+		<td><span>(ｏ・_・)ノ”(ノ_<、)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="negative">Японские смайлики каомодзи: отрицательные эмоции</a></h2>
+<h3><a name="dissatisfaction">Недовольство</a></h3>
+<p>Недовольство легко можно выразить сморщиванием лица каомодзи. Отсюда и соответствующие символы. Для глаз недовольных японских смайликов подойдут ＞＜. Дополнительные морщины может добавить символ ＃. Также определённое недовольство могут выражать глаза наподобие ￢￢ и ￣￣ с хорошо подобранным ртом. Подобные приёмы довольно часто встречаются в аниме и манге.</p> 
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(＃＞＜)</span></td>
+		<td><span>(；⌣̀_⌣́)</span></td>
+		<td><span>☆ｏ(＞＜；)○</span></td>
+		<td><span>(￣ ￣|||)</span></td>
+	</tr>
+	<tr>
+		<td><span>(；￣Д￣)</span></td>
+		<td><span>(￣□￣」)</span></td>
+		<td><span>(＃￣0￣)</span></td>
+		<td><span>(＃￣ω￣)</span></td>
+	</tr>
+	<tr>
+		<td><span>(￢_￢;)</span></td>
+		<td><span>(＞ｍ＜)</span></td>
+		<td><span>(」°ロ°)」</span></td>
+		<td><span>(〃＞＿＜;〃)</span></td>
+	</tr>
+	<tr>
+		<td><span>(＾＾＃)</span></td>
+		<td><span>(︶︹︺)</span></td>
+		<td><span>(￣ヘ￣)</span></td>
+		<td><span><(￣ ﹌ ￣)></span></td>
+	</tr>
+	<tr>
+		<td><span>(￣︿￣)</span></td>
+		<td><span>(＞﹏＜)</span></td>
+		<td><span>(--_--)</span></td>
+		<td><span>凸(￣ヘ￣)</span></td>
+	</tr>
+	<tr>
+		<td><span>ヾ( ￣O￣)ツ</span></td>
+		<td><span>(⇀‸↼‶)</span></td>
+		<td><span>o(>< )o</span></td>
+		<td><span>(」＞＜)」</span></td>
+	</tr>
+	<tr>
+		<td><span>(ᗒᗣᗕ)՞</span></td>
+		<td><span>(눈_눈)</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="anger">Злость</a></h3>
+<p>Секрет изображения злости с помощью каомодзи заключается в глазах. Используйте ` и ´ либо ｀ и ´. Только не перепутайте расположение символов, иначе Ваш злобный японский смайлик станет добрым и весёлым (сравните: ` ´ - злые глаза, ´ ` - добрые глаза). Кроме того, для изображения злости можно добавить "морщины" ＃ и их более сильную форму  メ или ╬, а в качестве руки - 凸 (средний палец) и ψ (подобие когтей). А ещё можно использовать "злобный оскал" 皿 или 益.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(＃`Д´)</span></td>
+		<td><span>(`皿´＃)</span></td>
+		<td><span>( ` ω ´ )</span></td>
+		<td><span>ヽ( `д´*)ノ</span></td>
+	</tr>
+	<tr>
+		<td><span>(・`ω´・)</span></td>
+		<td><span>(`ー´)</span></td>
+		<td><span>ヽ(`⌒´メ)ノ</span></td>
+		<td><span>凸(`△´＃)</span></td>
+	</tr>
+	<tr>
+		<td><span>( `ε´ )</span></td>
+		<td><span>ψ( ` ∇ ´ )ψ</span></td>
+		<td><span>ヾ(`ヘ´)ﾉﾞ</span></td>
+		<td><span>ヽ(‵﹏´)ノ</span></td>
+	</tr>
+	<tr>
+		<td><span>(ﾒ` ﾛ ´)</span></td>
+		<td><span>(╬`益´)</span></td>
+		<td><span>┌∩┐(◣_◢)┌∩┐</span></td>
+		<td><span>凸( ` ﾛ ´ )凸</span></td>
+	</tr>
+	<tr>
+		<td><span>Σ(▼□▼メ)</span></td>
+		<td><span>(°ㅂ°╬)</span></td>
+		<td><span>ψ(▼へ▼メ)～→</span></td>
+		<td><span>(ノ°益°)ノ</span></td>
+	</tr>
+	<tr>
+		<td><span>(҂ `з´ )</span></td>
+		<td><span>(‡▼益▼)</span></td>
+		<td><span>(҂` ﾛ ´)凸</span></td>
+		<td><span>((╬◣﹏◢))</span></td>
+	</tr>
+	<tr>
+		<td><span>٩(╬ʘ益ʘ╬)۶</span></td>
+		<td><span>(╬ Ò﹏Ó)</span></td>
+		<td><span>＼＼٩(๑`^´๑)۶／／</span></td>
+		<td><span>(凸ಠ益ಠ)凸</span></td>
+	</tr>
+	<tr>
+		<td><span>↑_(ΦwΦ)Ψ</span></td>
+		<td><span>←~(Ψ▼ｰ▼)∈</span></td>
+		<td><span>୧((#Φ益Φ#))୨</span></td>
+		<td><span>٩(ఠ益ఠ)۶</span></td>
+	</tr>
+	<tr>
+		<td><span>(ﾉಥ益ಥ)ﾉ</span></td>
+		<td><span>(≖､≖╬)</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="sadness">Печаль</a></h3>
+<p>Грусть, печаль и слёзы изображаются довольно просто. В качестве глаз используйте Т Т, ; ;, > < и другие символы, имитирующие заплаканные глаза японского смайлика. Также можно прикрыть глаза руками (например, /  \ и ノ ヽ).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(ノ_<。)</span></td>
+		<td><span>(-_-)</span></td>
+		<td><span>(´-ω-`)</span></td>
+		<td><span>.･ﾟﾟ･(／ω＼)･ﾟﾟ･.</span></td>
+	</tr>
+	<tr>
+		<td><span>(μ_μ)</span></td>
+		<td><span>(ﾉД`)</span></td>
+		<td><span>(-ω-、)</span></td>
+		<td><span>。゜゜(´Ｏ`) ゜゜。</span></td>
+	</tr>
+	<tr>
+		<td><span>o(TヘTo)</span></td>
+		<td><span>( ; ω ; )</span></td>
+		<td><span>(｡╯︵╰｡)</span></td>
+		<td><span>｡･ﾟﾟ*(>д<)*ﾟﾟ･｡</span></td>
+	</tr>
+	<tr>
+		<td><span>( ﾟ，_ゝ｀)</span></td>
+		<td><span>(个_个)</span></td>
+		<td><span>(╯︵╰,)</span></td>
+		<td><span>｡･ﾟ(ﾟ><ﾟ)ﾟ･｡</span></td>
+	</tr>
+	<tr>
+		<td><span>( ╥ω╥ )</span></td>
+		<td><span>(╯_╰)</span></td>
+		<td><span>(╥_╥)</span></td>
+		<td><span>.｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡.</span></td>
+	</tr>
+	<tr>
+		<td><span>(／ˍ・、)</span></td>
+		<td><span>(ノ_<、)</span></td>
+		<td><span>(╥﹏╥)</span></td>
+		<td><span>｡ﾟ(｡ﾉωヽ｡)ﾟ｡</span></td>
+	</tr>
+	<tr>
+		<td><span>(つω`｡)</span></td>
+		<td><span>(｡T ω T｡)</span></td>
+		<td><span>(ﾉω･､)</span></td>
+		<td><span>･ﾟ･(｡>ω<｡)･ﾟ･</span></td>
+	</tr>
+	<tr>
+		<td><span>(T_T)</span></td>
+		<td><span>(>_<)</span></td>
+		<td><span>(っ˘̩╭╮˘̩)っ</span></td>
+		<td><span>｡ﾟ･ (>﹏<) ･ﾟ｡</span></td>
+	</tr>
+	<tr>
+		<td><span>o(〒﹏〒)o</span></td>
+		<td><span>(｡•́︿•̀｡)</span></td>
+		<td><span>(ಥ﹏ಥ)</span></td>
+		<td><span>(ಡ‸ಡ)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="pain">Боль</a></h3>
+<p>Чтобы показать боль, используйте символы > < вместе со спецэффектами наподобие ⌒☆. Для изображения “оглушённых” смайликов можно использовать глаза типа “x”. Но также есть и другие способы.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>~(>_<~)</span></td>
+		<td><span>☆⌒(> _ <)</span></td>
+		<td><span>☆⌒(>。<)</span></td>
+		<td><span>(☆_@)</span></td>
+	</tr>
+	<tr>
+		<td><span>(×_×)</span></td>
+		<td><span>(x_x)</span></td>
+		<td><span>(×_×)⌒☆</span></td>
+		<td><span>(x_x)⌒☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(×﹏×)</span></td>
+		<td><span>☆(＃××)</span></td>
+		<td><span>(＋_＋)</span></td>
+		<td><span>[ ± _ ± ]</span></td>
+	</tr>
+	<tr>
+		<td><span>٩(× ×)۶</span></td>
+		<td><span>_:(´ཀ`」 ∠):_</span></td>
+		<td><span>(ﾒ﹏ﾒ)</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="fear">Страх</a></h3>
+<p>Для изображения испуганных японских смайликов используйте прямой и обратный слеш и другие символы, создающие впечатление, что каомодзи от страха закрывает руками лицо. В этом случае также можно изображать крик, размахивание руками и другие подобные действия.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(ノωヽ)</span></td>
+		<td><span>(／。＼)</span></td>
+		<td><span>(ﾉ_ヽ)</span></td>
+		<td><span>..・ヾ(。＞＜)シ</span></td>
+	</tr>
+	<tr>
+		<td><span>(″ロ゛)</span></td>
+		<td><span>(;;;*_*)</span></td>
+		<td><span>(・人・)</span></td>
+		<td><span>＼(〇_ｏ)／</span></td>
+	</tr>
+	<tr>
+		<td><span>(/ω＼)</span></td>
+		<td><span>(/_＼)</span></td>
+		<td><span>〜(＞＜)〜</span></td>
+		<td><span>Σ(°△°|||)︴</span></td>
+	</tr>
+	<tr>
+		<td><span>(((＞＜)))</span></td>
+		<td><span>{{ (>_<) }}</span></td>
+		<td><span>＼(º □ º l|l)/</span></td>
+		<td><span>〣( ºΔº )〣</span></td>
+	</tr>
+	<tr>
+		<td><span>▓▒░(°◡°)░▒▓</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="neutral">Японские смайлики каомодзи: нейтральные эмоции</a></h2>
+<h3><a name="indifference">Безразличие</a></h3>
+<p>Показать безразличие с помощью японских смайликов можно, используя имитацию соответствующих движений руками (┐ ┌ или ╮ ╭, а также всевозможные связки с прямым/обратным слешем и другими символами, похожими на руки). В качестве "безразличных глаз" подойдут ー ー, ˇ ˇ и похожие варианты.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>ヽ(ー_ー )ノ</span></td>
+		<td><span>ヽ(´ー` )┌</span></td>
+		<td><span>┐(‘～` )┌</span></td>
+		<td><span>ヽ(　￣д￣)ノ</span></td>
+	</tr>
+	<tr>
+		<td><span>┐(￣ヘ￣)┌</span></td>
+		<td><span>ヽ(￣～￣　)ノ</span></td>
+		<td><span>╮(￣_￣)╭</span></td>
+		<td><span>ヽ(ˇヘˇ)ノ</span></td>
+	</tr>
+	<tr>
+		<td><span>┐(￣～￣)┌</span></td>
+		<td><span>┐(︶▽︶)┌</span></td>
+		<td><span>╮(￣～￣)╭</span></td>
+		<td><span>¯\_(ツ)_/¯</span></td>
+	</tr>
+	<tr>
+		<td><span>┐( ´ д ` )┌</span></td>
+		<td><span>╮(︶︿︶)╭</span></td>
+		<td><span>┐(￣∀￣)┌</span></td>
+		<td><span>┐( ˘ ､ ˘ )┌</span></td>
+	</tr>
+	<tr>
+		<td><span>╮(︶▽︶)╭</span></td>
+		<td><span>╮( ˘ ､ ˘ )╭</span></td>
+		<td><span>┐( ˘_˘ )┌</span></td>
+		<td><span>╮( ˘_˘ )╭</span></td>
+	</tr>
+	<tr>
+		<td><span>┐(￣ヮ￣)┌</span></td>
+		<td><span>ᕕ( ᐛ )ᕗ</span></td>
+		<td><span>┐(シ)┌</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="confusion">Замешательство</a></h3>
+<p>Используйте "пустые глаза" ・ ・. Для усиления эффекта к ним можно добавить ; или 〃. Также в подобной связке смайликам подойдут глаза типа ￣ ￣. Наконец, можете добавить эффекты вроде процесса размышления (・・・), разведения руками (┐ ┌ или ╮ ╭), подпирания головы рукой ( ゞ).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(￣ω￣;)</span></td>
+		<td><span>σ(￣、￣〃)</span></td>
+		<td><span>(￣～￣;)</span></td>
+		<td><span>(-_-;)・・・</span></td>
+	</tr>
+	<tr>
+		<td><span>┐('～`;)┌</span></td>
+		<td><span>(・_・ヾ</span></td>
+		<td><span>(〃￣ω￣〃ゞ</span></td>
+		<td><span>┐(￣ヘ￣;)┌</span></td>
+	</tr>
+	<tr>
+		<td><span>(・_・;)</span></td>
+		<td><span>(￣_￣)・・・</span></td>
+		<td><span>╮(￣ω￣;)╭</span></td>
+		<td><span>(¯ . ¯;)</span></td>
+	</tr>
+	<tr>
+		<td><span>(＠_＠)</span></td>
+		<td><span>(・・;)ゞ</span></td>
+		<td><span>Σ(￣。￣ﾉ)</span></td>
+		<td><span>(・・ ) ?</span></td>
+	</tr>
+	<tr>
+		<td><span>(•ิ_•ิ)?</span></td>
+		<td><span>(◎ ◎)ゞ</span></td>
+		<td><span>(ーー;)</span></td>
+		<td><span>ლ(ಠ_ಠ ლ)</span></td>
+	</tr>
+	<tr>
+		<td><span>ლ(¯ロ¯"ლ)</span></td>
+		<td><span>(¯ . ¯٥)</span></td>
+		<td><span>(¯  ¯٥)</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="doubt">Сомнение</a></h3>
+<p>Сомнение проще всего показать, отведя глаза каомодзи в сторону. Используйте ￢ ￢, ¬ ¬ или стрелки.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(￢_￢)</span></td>
+		<td><span>(→_→)</span></td>
+		<td><span>(￢ ￢)</span></td>
+		<td><span>(￢‿￢ )</span></td>
+	</tr>
+	<tr>
+		<td><span>(¬_¬ )</span></td>
+		<td><span>(←_←)</span></td>
+		<td><span>(¬ ¬ )</span></td>
+		<td><span>(¬‿¬ )</span></td>
+	</tr>
+	<tr>
+		<td><span>(↼_↼)</span></td>
+		<td><span>(⇀_⇀)</span></td>
+		<td><span>(ᓀ ᓀ)</span></td>
+		<td><span>(„¬ᴗ¬„)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="surprise">Удивление</a></h3>
+<p>Удивление или шок можно показать с помощью широко открытого рта (ｏ, 〇, ロ), глаз (O O, ⊙ ⊙) и поднятых рук японского смайлика. Также можете добавить к нему символ Σ, обозначающий резкое вздрагивание, или оттенок замешательства (символ ;). Кроме того, при использовании широко открытых глаз рот можно уменьшить (для контраста).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>w(°ｏ°)w</span></td>
+		<td><span>ヽ(°〇°)ﾉ</span></td>
+		<td><span>Σ(O_O)</span></td>
+		<td><span>Σ(°ロ°)</span></td>
+	</tr>
+	<tr>
+		<td><span>(⊙_⊙)</span></td>
+		<td><span>(o_O)</span></td>
+		<td><span>(O_O;)</span></td>
+		<td><span>(O.O)</span></td>
+	</tr>
+	<tr>
+		<td><span>(°ロ°) !</span></td>
+		<td><span>(o_O) !</span></td>
+		<td><span>(□_□)</span></td>
+		<td><span>Σ(□_□)</span></td>
+	</tr>
+	<tr>
+		<td><span>∑(O_O;)</span></td>
+		<td><span>( : ౦ ‸ ౦ : )</span></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="actions">Японские смайлики каомодзи: различные действия</a></h2>
+<h3><a name="greeting">Приветствие</a></h3>
+<p>Для изображения приветствия (либо прощания) при помощи каомодзи в стандартных ситуациях используется прямой или обратный слеш. Однако есть и более интересные варианты, как, например, ﾉ и ノ. А если Вы хотите, чтобы японский смайлик "помахал рукой", попробуйте использовать ヾ, ﾉﾞ и их различные сочетания с "тильдой".</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(*・ω・)ﾉ</span></td>
+		<td><span>(￣▽￣)ノ</span></td>
+		<td><span>(°▽°)/</span></td>
+		<td><span>( ´ ∀ ` )ﾉ</span></td>
+	</tr>
+	<tr>
+		<td><span>(^-^*)/</span></td>
+		<td><span>(＠´ー`)ﾉﾞ</span></td>
+		<td><span>(´• ω •`)ﾉ</span></td>
+		<td><span>( ° ∀ ° )ﾉﾞ</span></td>
+	</tr>
+	<tr>
+		<td><span>ヾ(*'▽'*)</span></td>
+		<td><span>＼(⌒▽⌒)</span></td>
+		<td><span>ヾ(☆▽☆)</span></td>
+		<td><span>( ´ ▽ ` )ﾉ</span></td>
+	</tr>
+	<tr>
+		<td><span>(^０^)ノ</span></td>
+		<td><span>~ヾ(・ω・)</span></td>
+		<td><span>(・∀・)ノ</span></td>
+		<td><span>ヾ(・ω・*)</span></td>
+	</tr>
+	<tr>
+		<td><span>(*°ｰ°)ﾉ</span></td>
+		<td><span>(・_・)ノ</span></td>
+		<td><span>(o´ω`o)ﾉ</span></td>
+		<td><span>( ´ ▽ ` )/</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣ω￣)/</span></td>
+		<td><span>( ´ ω ` )ノﾞ</span></td>
+		<td><span>(⌒ω⌒)ﾉ</span></td>
+		<td><span>(o^ ^o)/</span></td>
+	</tr>
+	<tr>
+		<td><span>(≧▽≦)/</span></td>
+		<td><span>(✧∀✧)/</span></td>
+		<td><span>(o´▽`o)ﾉ</span></td>
+		<td><span>(￣▽￣)/</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="hugging">Обнимашки</a></h3>
+<p>Чтобы изобразить обнимашки, добавьте соответствующие символы протянутых рук.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(づ￣ ³￣)づ</span></td>
+		<td><span>(つ≧▽≦)つ</span></td>
+		<td><span>(つ✧ω✧)つ</span></td>
+		<td><span>(づ ◕‿◕ )づ</span></td>
+	</tr>
+	<tr>
+		<td><span>(⊃｡•́‿•̀｡)⊃</span></td>
+		<td><span>(つ . •́ _ʖ •̀ .)つ</span></td>
+		<td><span>(っಠ‿ಠ)っ</span></td>
+		<td><span>(づ◡﹏◡)づ</span></td>
+	</tr>
+	<tr>
+		<td><span>⊂(´• ω •`⊂)</span></td>
+		<td><span>⊂(･ω･*⊂)</span></td>
+		<td><span>⊂(￣▽￣)⊃</span></td>
+		<td><span>⊂( ´ ▽ ` )⊃</span></td>
+	</tr>
+	<tr>
+		<td><span>( ~*-*)~</span></td>
+		<td><span>(ノ= ⩊ = )ノ</span></td>
+		<td><span>(っ ᵔ◡ᵔ)っ</span></td>
+		<td><span>(っ╹ᆺ╹)っ</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="winking">Подмигивание</a></h3>
+<p>Подмигивающие японские смайлики смотрятся очень мило и изображать их очень легко. Просто используйте разные символы для левого и правого глаза Вашего каомодзи.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(^_~)</span></td>
+		<td><span>( ﾟｏ⌒)</span></td>
+		<td><span>(^_-)≡☆</span></td>
+		<td><span>(^ω~)</span></td>
+	</tr>
+	<tr>
+		<td><span>(>ω^)</span></td>
+		<td><span>(~人^)</span></td>
+		<td><span>(^_-)</span></td>
+		<td><span>( -_・)</span></td>
+	</tr>
+	<tr>
+		<td><span>(^_<)〜☆</span></td>
+		<td><span>(^人<)〜☆</span></td>
+		<td><span>☆⌒(≧▽​° )</span></td>
+		<td><span>☆⌒(ゝ。∂)</span></td>
+	</tr>
+	<tr>
+		<td><span>(^_<)</span></td>
+		<td><span>(^_−)☆</span></td>
+		<td><span>(･ω<)☆</span></td>
+		<td><span>(^.~)☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(^.~)</span></td>
+		<td><span>(｡•̀ᴗ-)✧</span></td>
+		<td><span>(>ᴗ•)</span></td>
+		<td><span>☆(>ᴗ•)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="apologizing">Извинение</a></h3>
+<p>В Японии, выражая извинение, принято исполнять традиционный поклон. Поэтому соответствующие японские смайлики изображают именно таким образом. При этом глаза, как правило, опущены вниз (_ _ или . .). Если поклон выполняется из положения сидя, в качестве рук каомодзи чаще всего используются m m; если из положения стоя, вместо рук лучше изобразить плечи < >.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>m(_ _)m</span></td>
+		<td><span>(シ_ _)シ</span></td>
+		<td><span>m(. .)m</span></td>
+		<td><span><(_ _)></span></td>
+	</tr>
+	<tr>
+		<td><span>人(_ _*)</span></td>
+		<td><span>(*_ _)人</span></td>
+		<td><span>m(_ _;m)</span></td>
+		<td><span>(m;_ _)m</span></td>
+	</tr>
+	<tr>
+		<td><span>(シ. .)シ</span></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="nosebleeding">Кровь из носа</a></h3>
+<p>Чтобы показать кровь из носа, как в аниме или манге, используйте следующие символы: i, ﾊ, ;, 〃.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(*￣ii￣)</span></td>
+		<td><span>(￣ﾊ￣*)</span></td>
+		<td><span>\(￣ﾊ￣)</span></td>
+		<td><span>(＾་།＾)</span></td>
+	</tr>
+	<tr>
+		<td><span>(＾〃＾)</span></td>
+		<td><span>(￣ ¨ヽ￣)</span></td>
+		<td><span>(￣ ;￣)</span></td>
+		<td><span>(￣ ;;￣)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="hiding">Прятки</a></h3>
+<p>Если Вы хотите показать, что японский смайлик прячется от кого-нибудь или чего-нибудь, попробуйте изобразить, как он выглядывает из-за стены | или другого укрытия.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>|･ω･)</span></td>
+		<td><span>ﾍ(･_|</span></td>
+		<td><span>|ω･)ﾉ</span></td>
+		<td><span>ヾ(･|</span></td>
+	</tr>
+	<tr>
+		<td><span>|д･)</span></td>
+		<td><span>|_￣))</span></td>
+		<td><span>|▽//)</span></td>
+		<td><span>┬┴┬┴┤(･_├┬┴┬┴</span></td>
+	</tr>
+	<tr>
+		<td><span>┬┴┬┴┤･ω･)ﾉ</span></td>
+		<td><span>┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴</span></td>
+		<td><span>┬┴┬┴┤(･_├┬┴┬┴</span></td>
+		<td><span>|_・)</span></td>
+	</tr>
+	<tr>
+		<td><span>|･д･)ﾉ</span></td>
+		<td><span>|ʘ‿ʘ)╯</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="writing">Письмо</a></h3>
+<p>Символ φ хорошо смотрится в качестве пишущей ручки, если нужно показать, как каомодзи что-то пишет. Ещё можно добавить несколько нижних подчёркиваний или точек, чтобы был виден сам результат письма.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>__φ(．．)</span></td>
+		<td><span>( ￣ー￣)φ__</span></td>
+		<td><span>__φ(。。)</span></td>
+		<td><span>__φ(．．;)</span></td>
+	</tr>
+	<tr>
+		<td><span>ヾ( `ー´)シφ__</span></td>
+		<td><span>__〆(￣ー￣ )</span></td>
+		<td><span>....φ(・∀・*)</span></td>
+		<td><span>___〆(・∀・)</span></td>
+	</tr>
+	<tr>
+		<td><span>( ^▽^)ψ__</span></td>
+		<td><span>....φ(︶▽︶)φ....</span></td>
+		<td><span>( . .)φ__</span></td>
+		<td><span>__φ(◎◎ヘ)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="running">Бег</a></h3>
+<p>Бегущие смайлики изображаются при помощи добавления различных спецэффектов движения. Для этого чаще всего используются символы ε, =, ミ и C.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>☆ﾐ(o*･ω･)ﾉ</span></td>
+		<td><span>C= C= C= C= C=┌(;・ω・)┘</span></td>
+		<td><span>─=≡Σ((( つ＞＜)つ</span></td>
+	</tr>
+	<tr>
+		<td><span>ε=ε=ε=ε=┌(;￣▽￣)┘</span></td>
+		<td><span>ε=ε=┌( >_<)┘</span></td>
+		<td><span>C= C= C= C=┌( `ー´)┘</span></td>
+	</tr>
+	<tr>
+		<td><span>ε===(っ≧ω≦)っ</span></td>
+		<td><span>ヽ(￣д￣;)ノ=3=3=3</span></td>
+		<td><span>。。。ミヽ(。＞＜)ノ</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="sleeping">Сон</a></h3>
+<p>Здесь всё просто. Для имитации "посапывания" или "похрапывания" японского смайлика используйте zzZ. А ещё можете уложить его на подушку [ ].</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>[(－－)]..zzZ</span></td>
+		<td><span>(－_－) zzZ</span></td>
+		<td><span>(∪｡∪)｡｡｡zzZ</span></td>
+		<td><span>(－ω－) zzZ</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣o￣) zzZZzzZZ</span></td>
+		<td><span>(( _ _ ))..zzzZZ</span></td>
+		<td><span>(￣ρ￣)..zzZZ</span></td>
+		<td><span>(－.－)...zzz</span></td>
+	</tr>
+	<tr>
+		<td><span>(＿ ＿*) Z z z</span></td>
+		<td><span>(x . x) ~~zzZ</span></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="animals">Японские смайлики каомодзи: животные</a></h2>
+<h3><a name="cat">Кошка</a></h3>
+<p>Японцы считают кошек безумно милыми созданиями. Отсюда и разнообразные фетиши аниме и манги: кошачьи ушки, хвостик, няканье (nyaa – "мяу" по-японски) и прочие забавности. Поэтому и в каомодзи самым популярным животным является именно кошка. Чтобы Ваш японский смайлик стал похож на кошку, используйте = = в качестве усов и ^ ^ в качестве ушей.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(=^･ω･^=)</span></td>
+		<td><span>(=^･ｪ･^=)</span></td>
+		<td><span>(=①ω①=)</span></td>
+		<td><span>( =ω=)..nyaa</span></td>
+	</tr>
+	<tr>
+		<td><span>(= ; ｪ ; =)</span></td>
+		<td><span>(=`ω´=)</span></td>
+		<td><span>(=^‥^=)</span></td>
+		<td><span>( =ノωヽ=)</span></td>
+	</tr>
+	<tr>
+		<td><span>(=⌒‿‿⌒=)</span></td>
+		<td><span>(=^ ◡ ^=)</span></td>
+		<td><span>(=^-ω-^=)</span></td>
+		<td><span>ヾ(=`ω´=)ノ”</span></td>
+	</tr>
+	<tr>
+		<td><span>(＾• ω •＾)</span></td>
+		<td><span>(/ =ω=)/</span></td>
+		<td><span>ฅ(•ㅅ•❀)ฅ</span></td>
+		<td><span>ฅ(• ɪ •)ฅ</span></td>
+	</tr>
+	<tr>
+		<td><span>ଲ(ⓛ ω ⓛ)ଲ</span></td>
+		<td><span>(^=◕ᴥ◕=^)</span></td>
+		<td><span>( =ω= )</span></td>
+		<td><span>(^˵◕ω◕˵^)</span></td>
+	</tr>
+	<tr>
+		<td><span>(^◔ᴥ◔^)</span></td>
+		<td><span>(^◕ᴥ◕^)</span></td>
+		<td><span>ต(=ω=)ต</span></td>
+		<td><span>( Φ ω Φ )</span></td>
+	</tr>
+	<tr>
+		<td><span>ฅ(^◕ᴥ◕^)ฅ</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="bear">Медведь</a></h3>
+<p>Японские смайлики в виде медведя легко идентифицировать по характерной мордочке (ｴ) или ушам ʕ ʔ.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>( ´(ｴ)ˋ )</span></td>
+		<td><span>(*￣(ｴ)￣*)</span></td>
+		<td><span>ヽ(￣(ｴ)￣)ﾉ</span></td>
+		<td><span>(／￣(ｴ)￣)／</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣(ｴ)￣)</span></td>
+		<td><span>ヽ( ˋ(ｴ)´ )ﾉ</span></td>
+		<td><span>⊂(￣(ｴ)￣)⊃</span></td>
+		<td><span>(／(ｴ)＼)</span></td>
+	</tr>
+	<tr>
+		<td><span>⊂(´(ェ)ˋ)⊃</span></td>
+		<td><span>(/-(ｴ)-＼)</span></td>
+		<td><span>(/°(ｴ)°)/</span></td>
+		<td><span>ʕ ᵔᴥᵔ ʔ</span></td>
+	</tr>
+	<tr>
+		<td><span>ʕ •ᴥ• ʔ</span></td>
+		<td><span>ʕ •̀ ω •́ ʔ</span></td>
+		<td><span>ʕ •̀ o •́ ʔ</span></td>
+		<td><span>ʕಠᴥಠʔ</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="dog">Собака</a></h3>
+<p>Здесь весь секрет в ушах ∪ ∪ и отсутствии привычных границ лица японского смайлика (т.е. вместо скобок границами служат уши).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>∪＾ェ＾∪</span></td>
+		<td><span>∪･ω･∪</span></td>
+		<td><span>∪￣-￣∪</span></td>
+		<td><span>∪･ｪ･∪</span></td>
+	</tr>
+	<tr>
+		<td><span>Ｕ^皿^Ｕ</span></td>
+		<td><span>ＵＴｪＴＵ</span></td>
+		<td><span>U^ｪ^U</span></td>
+		<td><span>V●ᴥ●V</span></td>
+	</tr>
+	<tr>
+		<td><span>U・ᴥ・U</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="rabbit">Кролик</a></h3>
+<p>Кролики и без того милые существа, а смайлики делают их ещё милее. Для изображения кролика используйте x в качестве мордочки и добавьте ушки ／ ＼. Можете попробовать и другие варианты.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>／(≧ x ≦)＼</span></td>
+		<td><span>／(･ × ･)＼</span></td>
+		<td><span>／(=´x`=)＼</span></td>
+		<td><span>／(^ x ^)＼</span></td>
+	</tr>
+	<tr>
+		<td><span>／(=･ x ･=)＼</span></td>
+		<td><span>／(^ × ^)＼</span></td>
+		<td><span>／(＞×＜)＼</span></td>
+		<td><span>／(˃ᆺ˂)＼</span></td>
+	</tr>
+	<tr>
+		<td><span>૮ ˶ᵔ ᵕ ᵔ˶ ა</span></td>
+		<td><span>૮₍ ˶• ༝ •˶ ₎ა</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="pig">Свинья</a></h3>
+<p>Свиной пятачок можно изобразить в виде (оо), (00) или (ω). Добавьте его к японскому смайлику и получится забавный хрюндель.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>( ´(00)ˋ )</span></td>
+		<td><span>(￣(ω)￣)</span></td>
+		<td><span>ヽ( ˋ(00)´ )ノ</span></td>
+		<td><span>( ´(oo)ˋ )</span></td>
+	</tr>
+	<tr>
+		<td><span>＼(￣(oo)￣)／</span></td>
+		<td><span>｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡</span></td>
+		<td><span>(￣(00)￣)</span></td>
+		<td><span>(ˆ(oo)ˆ)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="bird">Птица</a></h3>
+<p>Для смайликов в виде птицы используйте символы Θ или θ в качестве клюва. Это основная идея.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(￣Θ￣)</span></td>
+		<td><span>(`･Θ･´)</span></td>
+		<td><span>( ˋ Θ ´ )</span></td>
+		<td><span>(◉Θ◉)</span></td>
+	</tr>
+	<tr>
+		<td><span>＼( ˋ Θ ´ )／</span></td>
+		<td><span>(･θ･)</span></td>
+		<td><span>(・Θ・)</span></td>
+		<td><span>ヾ(￣◇￣)ノ〃</span></td>
+	</tr>
+	<tr>
+		<td><span>(･Θ･)</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="fish">Рыба</a></h3>
+<p>Поскольку рыба и морепродукты являются неотъемлемым атрибутом питания японцев, смайлики не обошли стороной и эту тему. Здесь используются символы <<  или 彡 для хвоста и )) для жабр.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(°)#))<<</span></td>
+		<td><span><・ )))><<</span></td>
+		<td><span>ζ°)))彡</span></td>
+		<td><span>>°))))彡</span></td>
+	</tr>
+	<tr>
+		<td><span>(°))<<</span></td>
+		<td><span>>^)))<～～</span></td>
+		<td><span>≧( ° ° )≦</span></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="spider">Паук</a></h3>
+<p>Чтобы изобразить паука, используйте символы /\╱\╮╭╲ для ног и попробуйте добавить несколько пар глаз.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>/╲/\╭(ఠఠ益ఠఠ)╮/\╱\</span></td>
+		<td><span>/╲/\╭(ರರ⌓ರರ)╮/\╱\</span></td>
+		<td><span>/╲/\╭༼ ººل͟ºº ༽╮/\╱\</span></td>
+		<td><span>/╲/\╭( ͡°͡° ͜ʖ ͡°͡°)╮/\╱\</span></td>
+	</tr>
+	<tr>
+		<td><span>/╲/\╭[ ᴼᴼ ౪ ᴼᴼ]╮/\╱\</span></td>
+		<td><span>/╲/\( •̀ ω •́ )/\╱\</span></td>
+		<td><span>/╲/\╭[☉﹏☉]╮/\╱\</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="other">Японские смайлики каомодзи: прочие вариации</a></h2>
+<h3><a name="friends">Друзья</a></h3>
+<p>Чтобы показать дружбу, достаточно изобразить несколько японских смайликов, держащихся за руки. Для этого лучше всего подойдут символы 人, メ, 八 и 爻. Хотя есть и другие способы. Попробуйте найти их.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>ヾ(・ω・)メ(・ω・)ノ</span></td>
+		<td><span>ヽ(∀° )人( °∀)ノ</span></td>
+		<td><span>ヽ( ⌒o⌒)人(⌒-⌒ )ﾉ</span></td>
+	</tr>
+	<tr>
+		<td><span>(*^ω^)八(⌒▽⌒)八(-‿‿- )ヽ</span></td>
+		<td><span>＼(＾∀＾)メ(＾∀＾)ノ</span></td>
+		<td><span>ヾ(￣ー￣(≧ω≦*)ゝ</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ( ⌒ω⌒)人(=^‥^= )ﾉ</span></td>
+		<td><span>ヽ(≧◡≦)八(o^ ^o)ノ</span></td>
+		<td><span>(*・∀・)爻(・∀・*)</span></td>
+	</tr>
+	<tr>
+		<td><span>｡*:☆(・ω・人・ω・)｡:゜☆｡</span></td>
+		<td><span>o(^^o)(o^^o)(o^^o)(o^^)o</span></td>
+		<td><span>(((￣(￣(￣▽￣)￣)￣)))</span></td>
+	</tr>
+	<tr>
+		<td><span>(°(°ω(°ω°(☆ω☆)°ω°)ω°)°)</span></td>
+		<td><span>ヾ(・ω・`)ノヾ(´・ω・)ノ゛</span></td>
+		<td><span>Ψ( `∀)(∀´ )Ψ</span></td>
+	</tr>
+	<tr>
+		<td><span>(っ˘▽˘)(˘▽˘)˘▽˘ς)</span></td>
+		<td><span>(((*°▽°*)八(*°▽°*)))</span></td>
+		<td><span>☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(*＾ω＾)人(＾ω＾*)</span></td>
+		<td><span>٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶</span></td>
+		<td><span>(☞°ヮ°)☞ ☜(°ヮ°☜)</span></td>
+	</tr>
+	<tr>
+		<td><span>＼(▽￣ \ (￣▽￣) / ￣▽)／</span></td>
+		<td><span>\( ˙▿˙ )/\( ˙▿˙ )/</span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="enemies">Враги</a></h3>
+<p>Здесь понятие "враг" используется в шутливой форме. Просто изобразите, как японский смайлик пинает своего оппонента или что-то в этом роде. Для большей выразительности используйте спецэффекты ☆, ﾐ, 彡 и Σ. Глаза смайликов, находящихся без сознания, принято изображать в виде x x. Всё остальное - творческий подход.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>ヽ( ･∀･)ﾉ_θ彡☆Σ(ノ `Д´)ノ</span></td>
+		<td><span>(*´∇`)┌θ☆(ﾉ>_<)ﾉ</span></td>
+		<td><span>( ￣ω￣)ノﾞ⌒☆ﾐ(o _ _)o</span></td>
+	</tr>
+	<tr>
+		<td><span>(*`0´)θ☆(メ°皿°)ﾉ</span></td>
+		<td><span>(o¬‿¬o )...☆ﾐ(*x_x)</span></td>
+		<td><span>(╬￣皿￣)=○＃(￣#)３￣)</span></td>
+	</tr>
+	<tr>
+		<td><span>(; -_-)――――――C<―_-)</span></td>
+		<td><span>＜( ￣︿￣)︵θ︵θ︵☆(＞口＜－)</span></td>
+		<td><span>(￣ε(#￣)☆╰╮o(￣▽￣///)</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(>_<ヽ) ―⊂|=0ヘ(^‿^ )</span></td>
+		<td><span>ヘ(>_<ヘ) ￢o(￣‿￣ﾒ)</span></td>
+		<td><span>,,((( ￣□)_／ ＼_(○￣ ))),,</span></td>
+	</tr>
+	<tr>
+		<td><span>(҂` ﾛ ´)︻デ═一 ＼(º □ º l|l)/</span></td>
+		<td><span>(╯°Д°)╯︵ /(.□ . ＼)</span></td>
+		<td><span>(¬_¬'')ԅ(￣ε￣ԅ)</span></td>
+	</tr>
+	<tr>
+		<td><span>/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /)</span></td>
+		<td><span>(ﾉ-.-)ﾉ….((((((((((((●~* ( >_<)</span></td>
+		<td><span>!!(ﾒ￣ ￣)_θ☆°0°)/</span></td>
+	</tr>
+	<tr>
+		<td><span>(`⌒*)O-(`⌒´Q)</span></td>
+		<td><span>(((ง’ω’)و三 ง’ω’)ڡ≡　☆⌒ﾐ((x_x)</span></td>
+		<td><span>(งಠ_ಠ)ง　σ( •̀ ω •́ σ)</span></td>
+	</tr>
+	<tr>
+		<td><span>(っ•﹏•)っ ✴==≡눈٩(`皿´҂)ง</span></td>
+		<td><span>(｢• ω •)｢ (⌒ω⌒`)</span></td>
+		<td><span>( °ᴗ°)~ð (/❛o❛\)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="weapons">Оружие</a></h3>
+<p>Винтовка ︻デ═一, снайперская винтовка ︻┻┳══━一, дробовик ︻┳═一, миниган ✴==≡눈, пистолет ￢, лазер ・・・--------☆, цепь ○∞∞∞∞, лук D・・・・・------ →, бомба (((((((((●～*, шприц ―⊂|=0, газовый баллончик 占~~~~~, йо-йо ~~~~~~~~~~◎, бумеранг (( く ((へ, копьё ―――→, хваталка ――――C, меч _／ или ¤=[]:::::>, боксёрские перчатки QQ.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>( ・∀・)・・・--------☆</span></td>
+		<td><span>(/-_・)/D・・・・・------ →</span></td>
+		<td><span>(^ω^)ノﾞ(((((((((●～*</span></td>
+	</tr>
+	<tr>
+		<td><span>( -ω-)／占~~~~~</span></td>
+		<td><span>(/・・)ノ　　 (( く ((へ</span></td>
+		<td><span>―⊂|=0ヘ(^^ )</span></td>
+	</tr>
+	<tr>
+		<td><span>○∞∞∞∞ヽ(^ー^ )</span></td>
+		<td><span>(; ・_・)――――C</span></td>
+		<td><span>(ಠ o ಠ)¤=[]:::::></span></td>
+	</tr>
+	<tr>
+		<td><span>(*＾＾)/~~~~~~~~~~◎</span></td>
+		<td><span>￢o(￣-￣ﾒ)</span></td>
+		<td><span>―(T_T)→</span></td>
+	</tr>
+	<tr>
+		<td><span>((( ￣□)_／</span></td>
+		<td><span>(ﾒ` ﾛ ´)︻デ═一</span></td>
+		<td><span>( ´-ω･)︻┻┳══━一</span></td>
+	</tr>
+	<tr>
+		<td><span>(ﾒ￣▽￣)︻┳═一</span></td>
+		<td><span>✴==≡눈٩(`皿´҂)ง</span></td>
+		<td><span>Q(`⌒´Q)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="magic">Магия</a></h3>
+<p>При помощи японских смайликов можно изобразить даже магию во всём её разнообразии.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ</span></td>
+		<td><span>(ﾉ≧∀≦)ﾉ ‥…━━━★</span></td>
+		<td><span>(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆</span></td>
+		<td><span>╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ</span></td>
+		<td><span>(＃￣□￣)o━∈・・━━━━☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿</span></td>
+		<td><span>(∩ᄑ_ᄑ)⊃━☆ﾟ*･｡*･:≡( ε:)</span></td>
+		<td><span>(/￣ー￣)/~~☆’.･.･:★’.･.･:☆</span></td>
+	</tr>
+	<tr>
+		<td><span>(∩` ﾛ ´)⊃━炎炎炎炎炎</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="food">Еда</a></h3>
+<p>Японцы очень любят выпить. Поэтому богатое разнообразие японских смайликов каомодзи не могло не учесть эту особенность. Именно для данной цели используются символы 旦, 口, 且. Также в качестве варианта попроще можно использовать квадратные скобки []. А чтобы показать горячие напитки (чай, кофе), достаточно добавить ~~ (пар) к соответствующим символам. Кроме того, с помощью каомодзи можно изображать еду самыми разнообразными способами (примеры в таблице ниже).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>(っ˘ڡ˘ς)</span></td>
+		<td><span>( o˘◡˘o) ┌iii┐</span></td>
+		<td><span>(　’ω’)旦~~</span></td>
+	</tr>
+	<tr>
+		<td><span>( ˘▽˘)っ♨</span></td>
+		<td><span>♨o(>_<)o♨</span></td>
+		<td><span>( ・ω・)o-{{[〃]}}</span></td>
+	</tr>
+	<tr>
+		<td><span>(　・ω・)⊃-[二二]</span></td>
+		<td><span>( ・・)つ―{}@{}@{}-</span></td>
+		<td><span>( ・・)つ-●●●</span></td>
+	</tr>
+	<tr>
+		<td><span>(*´ー`)旦 旦(￣ω￣*)</span></td>
+		<td><span>(*´з`)口ﾟ｡ﾟ口(・∀・ )</span></td>
+		<td><span>( o^ ^o)且 且(´ω`*)</span></td>
+	</tr>
+	<tr>
+		<td><span>( ￣▽￣)[] [](≧▽≦ )</span></td>
+		<td><span>( *^^)o∀*∀o(^^* )</span></td>
+		<td><span>( ^^)_旦~~　 ~~U_(^^ )</span></td>
+	</tr>
+	<tr>
+		<td><span>(*￣▽￣)旦 且(´∀`*)</span></td>
+		<td><span>-●●●-ｃ(・・ )</span></td>
+		<td><span>( ・・)つ―●○◎-</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣﹃￣)</span></td>
+		<td><span>(๑ᵔ⤙ᵔ๑)</span></td>
+		<td><span>(´ᵔ⤙ᵔ`)</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="music">Музыка</a></h3>
+<p>Японские смайлики способны очень ясно выражать музыкальные аспекты жизни (пение, танец, прослушивание музыки и прочее). Для этого к стандартному каомодзи достаточно добавить символ ♪ или изменить положение рук (если нужно показать танец).</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>ヾ(´〇`)ﾉ♪♪♪</span></td>
+		<td><span>ヘ(￣ω￣ヘ)</span></td>
+		<td><span>(〜￣▽￣)〜</span></td>
+		<td><span>〜(￣▽￣〜)</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(o´∀`)ﾉ♪♬</span></td>
+		<td><span>(ﾉ≧∀≦)ﾉ</span></td>
+		<td><span>♪ヽ(^^ヽ)♪</span></td>
+		<td><span>♪(/_ _ )/♪</span></td>
+	</tr>
+	<tr>
+		<td><span>♪♬((d⌒ω⌒b))♬♪</span></td>
+		<td><span>└(￣-￣└))</span></td>
+		<td><span>((┘￣ω￣)┘</span></td>
+		<td><span>√(￣‥￣√)</span></td>
+	</tr>
+	<tr>
+		<td><span>└(＾＾)┐</span></td>
+		<td><span>┌(＾＾)┘</span></td>
+		<td><span>＼(￣▽￣)＼</span></td>
+		<td><span>／(￣▽￣)／</span></td>
+	</tr>
+	<tr>
+		<td><span>(￣▽￣)/♫•*¨*•.¸¸♪</span></td>
+		<td><span>(^_^♪)</span></td>
+		<td><span>(~˘▽˘)~</span></td>
+		<td><span>~(˘▽˘~)</span></td>
+	</tr>
+	<tr>
+		<td><span>ヾ(⌐■_■)ノ♪</span></td>
+		<td><span>(〜￣△￣)〜</span></td>
+		<td><span>(~‾▽‾)~</span></td>
+		<td><span>~(˘▽˘)~</span></td>
+	</tr>
+	<tr>
+		<td><span>乁( • ω •乁)</span></td>
+		<td><span>(｢• ω •)｢</span></td>
+		<td><span>⁽⁽◝( • ω • )◜⁾⁾</span></td>
+		<td><span>✺◟( • ω • )◞✺</span></td>
+	</tr>
+	<tr>
+		<td><span>♬♫♪◖(● o ●)◗♪♫♬</span></td>
+		<td><span>( ˘ ɜ˘) ♬♪♫</span></td>
+		<td><span>♪♪♪ ヽ(ˇ∀ˇ )ゞ</span></td>
+		<td><span>(ˇ▽ˇ)ノ♪♬♫</span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="games">Игры</a></h3>
+<p>Японцы с помощью смайликов могут изображать даже игры и спорт. Ниже представлено несколько примеров: теннис, пинг-понг, волейбол, баскетбол, мяч, бокс, кэндо, рыбалка, боулинг, видеоигры. Попробуйте сами определить где что.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>( ^^)p_____|_o____q(^^ )</span></td>
+		<td><span>(／o^)/ °⊥ ＼(^o＼)</span></td>
+		<td><span>!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ >ﾟ))))彡</span></td>
+	</tr>
+	<tr>
+		<td><span>ヽ(^o^)ρ┳┻┳°σ(^o^)ノ</span></td>
+		<td><span>(／_^)／　　●　＼(^_＼)</span></td>
+		<td><span>"( (≡|≡))_／ ＼_((≡|≡) )"</span></td>
+	</tr>
+	<tr>
+		<td><span>( ノ-_-)ノﾞ_□ VS □_ヾ(^-^ヽ)</span></td>
+		<td><span>ヽ(；^ ^)ノﾞ ．．．...___〇</span></td>
+		<td><span>(=O*_*)=O Q(*_*Q)</span></td>
+	</tr>
+	<tr>
+		<td><span>Ю　○三　＼(￣^￣＼)</span></td>
+		<td><span>(˙ω˙)🎮(˙∀˙)🎮</span></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="faces">Лица</a></h3>
+<p>Лица этих смайликов наиболее похожи на человеческие.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td><span>( ͡° ͜ʖ ͡°)</span></td>
+		<td><span>( ͡° ʖ̯ ͡°)</span></td>
+		<td><span>( ͠° ͟ʖ ͡°)</span></td>
+		<td><span>( ͡ᵔ ͜ʖ ͡ᵔ)</span></td>
+	</tr>
+	<tr>
+		<td><span>( . •́ _ʖ •̀ .)</span></td>
+		<td><span>( ఠ ͟ʖ ఠ)</span></td>
+		<td><span>( ͡ಠ ʖ̯ ͡ಠ)</span></td>
+		<td><span>( ಠ ʖ̯ ಠ)</span></td>
+	</tr>
+	<tr>
+		<td><span>( ಠ ͜ʖ ಠ)</span></td>
+		<td><span>( ಥ ʖ̯ ಥ)</span></td>
+		<td><span>( ͡• ͜ʖ ͡• )</span></td>
+		<td><span>( ･ิ ͜ʖ ･ิ)</span></td>
+	</tr>
+	<tr>
+		<td><span>( ͡  ͜ʖ ͡  )</span></td>
+		<td><span>(≖ ͜ʖ≖)</span></td>
+		<td><span>(ʘ ʖ̯ ʘ)</span></td>
+		<td><span>(ʘ ͟ʖ ʘ)</span></td>
+	</tr>
+	<tr>
+		<td><span>(ʘ ͜ʖ ʘ)</span></td>
+		<td><span>(;´༎ຶٹ༎ຶ`)</span></td>
+		<td><span></span></td>
+		<td><span></span></td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h3><a name="special">Особые</a></h3>
+<p>Сюда включены смайлики, не имеющие конкретной категории. Поэтому к каждому из них прилагается описание.</p>
+<div class="mobile_friendly">
+<table class="table_kaomoji">
+	<tr>
+		<td style="width:400px"><span>٩(ˊ〇ˋ*)و</span></td>
+		<td style="font-family:Comic Sans MS">просыпается</td>
+	</tr>
+	<tr>
+		<td><span>(￣^￣)ゞ</span></td>
+		<td style="font-family:Comic Sans MS">отдаёт честь</td>
+	</tr>
+	<tr>
+		<td style="width:400px"><span>(－‸ლ)</span></td>
+		<td style="font-family:Comic Sans MS">фейспалм (facepalm)</td>
+	</tr>
+	<tr>
+		<td><span>(╯°益°)╯彡┻━┻</span></td>
+		<td style="font-family:Comic Sans MS">в гневе бросает стол</td>
+	</tr>
+	<tr>
+		<td><span>(╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻</span></td>
+		<td style="font-family:Comic Sans MS">взял стол и устроил дебош</td>
+	</tr>
+	<tr>
+		<td><span>┬─┬ノ( º _ ºノ)</span></td>
+		<td style="font-family:Comic Sans MS">поставил стол на место</td>
+	</tr>
+	<tr>
+		<td><span>(oT-T)尸</span></td>
+		<td style="font-family:Comic Sans MS">сдаётся</td>
+	</tr>
+	<tr>
+		<td><span>( ͡° ͜ʖ ͡°)</span></td>
+		<td style="font-family:Comic Sans MS">мем / лицо Ленни</td>
+	</tr>
+	<tr>
+		<td><span>[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]</span></td>
+		<td style="font-family:Comic Sans MS">деньги</td>
+	</tr>
+	<tr>
+		<td><span>(ಠ_ಠ)</span></td>
+		<td style="font-family:Comic Sans MS">мем / взгляд неодобрения</td>
+	</tr>
+	<tr>
+		<td><span>౦０o ｡ (‾́。‾́ )y~~</span></td>
+		<td style="font-family:Comic Sans MS">курит</td>
+	</tr>
+	<tr>
+		<td><span>(x(x_(x_x(O_o)x_x)_x)x)</span></td>
+		<td style="font-family:Comic Sans MS">живой среди зомби</td>
+	</tr>
+	<tr>
+		<td><span>(　･ω･)☞</span></td>
+		<td style="font-family:Comic Sans MS">указывает</td>
+	</tr>
+	<tr>
+		<td><span>(⌐■_■)</span></td>
+		<td style="font-family:Comic Sans MS">в очках</td>
+	</tr>
+	<tr>
+		<td><span>(◕‿◕✿)</span></td>
+		<td style="font-family:Comic Sans MS">няшка</td>
+	</tr>
+	<tr>
+		<td><span>(　￣.)o-　　【　TV　】</span></td>
+		<td style="font-family:Comic Sans MS">смотрит телевизор</td>
+	</tr>
+	<tr>
+		<td><span>｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ</span></td>
+		<td style="font-family:Comic Sans MS">ловит зонтик под дождём</td>
+	</tr>
+	<tr>
+		<td><span>‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵</span></td>
+		<td style="font-family:Comic Sans MS">тонет</td>
+	</tr>
+	<tr>
+		<td><span>( • )( • )ԅ(≖‿≖ԅ)</span></td>
+		<td style="font-family:Comic Sans MS">эмм... сами догадайтесь, что он делает</td>
+	</tr>
+	<tr>
+		<td><span>( ＾▽＾)っ✂╰⋃╯</span></td>
+		<td style="font-family:Comic Sans MS">наказание за измену</td>
+	</tr>
+	<tr>
+		<td><span>〜〜(／￣▽)／　〜ф</span></td>
+		<td style="font-family:Comic Sans MS">бежит за бабочкой</td>
+	</tr>
+	<tr>
+		<td><span>ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚</span></td>
+		<td style="font-family:Comic Sans MS">ангел</td>
+	</tr>
+	<tr>
+		<td><span>ଘ(੭ˊ꒳​ˋ)੭✧</span></td>
+		<td style="font-family:Comic Sans MS">ещё один ангел</td>
+	</tr>
+	<tr>
+		<td><span>_(:3 」∠)_</span></td>
+		<td style="font-family:Comic Sans MS">популярный лежащий смайлик</td>
+	</tr>
+	<tr>
+		<td><span>∠( ᐛ 」∠)_</span></td>
+		<td style="font-family:Comic Sans MS">ещё один лежащий смайлик</td>
+	</tr>
+</table>
+</div>
+<br />
+
+<h2><a name="android">Японские смайлики для Android</a></h2>
+<div class="mobile_friendly"><center><img src="images/android_app.png" alt="android app" width="700" height="480" /></center></div>
+<p>Официальное приложение для Android. Наша собственная разработка и частичка души проекта. Сочетает в себе простоту, удобство, функциональность и безграничный кавай, переводя общение посредством японских смайликов на совершенно новый уровень! (☆▽☆)</p>
+<p>Надеемся, Вам понравится наше приложение, и будем очень благодарны за Ваши оценки и отзывы на Google Play, поскольку этим Вы поможете ему не только выжить в суровых условиях конкуренции, но и поведать о себе миру!</p>
+<p><img src="images/android_mini.png" alt="android" width="42" height="40" /> <a href="https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp&hl=ru">Скачать японские смайлики для Android</a></p>
+<p>Также Вы можете поддержать проект, скачав платную версию приложения. Она без рекламы. (￣▽￣)</p>
+<p><img src="images/android_mini.png" alt="android" width="42" height="40" /> <a href="https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiplus&hl=ru">Скачать японские смайлики для Android (платная версия)</a></p>
+<br />
+
+<h2><a name="donate">Поддержка проекта</a></h2>
+<p>Как вы знаете, на нашем сайте нет назойливой рекламы. Однако нам нужно чем-то оплачивать хостинг и доменное имя, чтобы сайт продолжал работать. Поэтому ваша поддержка очень приветствуется.</p>
+<p>Есть несколько способов сделать это.</p>
+<p>Самый простой способ - поделиться ссылкой на наш сайт и приложение с друзьями.</p>
+<center><img src="images/donate.png" alt="donate" width="350" height="350" /></center>
+<br />
+<p>Также вы можете помочь, скачав платную версию нашего <a href="https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiplus&hl=ru">приложения для Android</a>.</p>
+<p>Всем огромное спасибо за поддержку!</p>
+<br />
+
+<h2><a name="information">Дополнительная информация</a></h2>
+<p>Официальная группа в соцсетях: <a href="https://vk.com/kaomoji">vk.com/kaomoji</a>
+</p>
+<!-- <p>Кнопка:<br /><img style="margin:10px;border-radius:3px;box-shadow: 0 0 3px #555555" border="0" src="images/kaomoji_button.png" width="88" height="31" alt="Каомодзи: японские смайлики">
+<br />
+</p> -->
+
+<br />
+<br />
+<center>2012-2025<br />Каомодзи | Японские смайлики | Kaomoji<br />Created by <span class="hotspot" onmouseover="tooltip.show('<table><tr><td><img src=\'images/smilex.jpg\' alt=\'smilex\' width=\'100\' height=\'100\' /></td><td>По всем интересующим вопросам пишите на email:<br /><br />innocentsmilex@gmail.com</td></tr></table>');" onmouseout="tooltip.hide();"><u>SmileX</u></span></center>
+</div>
+
+<div id="updates">
+<div id="updatesButton">
+И<br />Н<br />Ф<br />О
+</div>
+<table class="updates_table">
+<tr>
+<td><b>Коллекция каомодзи</b><br />
+Последнее обновление: 04.01.2025
+</td>
+</tr>
+<tr>
+<td>
+<br />
+<b>Японские смайлики для Android</b><br />
+Текущая версия: 1.3.3<br />
+<a href="#android">Скачать приложение</a>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="languages">
+<img src="images/flag_ru.png" title="Русский" alt="ru" width="30" height="22" /> <a href="/en/"><img src="images/flag_us.png" title="English" alt="en" width="30" height="22" /></a>
+</div>
+<div id="download">
+<a href="https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp&hl=ru"><img src="images/download_app_ru.png" alt="Скачать приложение" width="128" height="64" /></a>
+</div>
+
+
+<div id="links">
+<div class="mobile_friendly">
+<table class="c_table">
+<tr>
+<td>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div id="scrolltop">
+<a href="#contents"><span class="hotspot" onmouseover="tooltip.show('Перейти к содержанию');" onmouseout="tooltip.hide();"><img src="images/scrolltop.png" alt="kaomoji contents" width="120" height="88" /></span></a>
+</div>
+
+<div id="kaoPanel">
+<div id="kaoButton">
+Помочь сайту
+</div>
+<table class="kaotable">
+<tr>
+<td>
+Если вам нравится этот сайт и небезразлична его судьба, то вам сюда. ＼(￣▽￣)／
+<br /><br />
+<b><a href="#donate">Я ХОЧУ ПОМОЧЬ!</a></b>
+<br /><br /><br />
+Контактный email: innocentsmilex@gmail.com
+</td>
+<td>
+<img src="images/kaomoji_partners.png" alt="kaomoji partners" width="162" height="200" />
+</td>
+</tr>
+</table>
+</div>
+
+</body>
+</html>

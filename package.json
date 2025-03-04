@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "script": "node script.js && npx prettier data --write"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
