@@ -15,17 +15,22 @@ Promise.all(
     for (const element of Array.from(
       dom.window.document.querySelectorAll("h3 > a[name]")
     )) {
-      result[element.textContent] = {
-        description: element.parentElement.nextElementSibling.textContent,
-        kaomoji: sort(
-          Array.from(
-            element.parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
-              ".table_kaomoji td > span"
-            )
+      const { parentElement } = element;
+
+      const kaomoji = sort(
+        Array.from(
+          parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
+            ".table_kaomoji td > span"
           )
-            .map(({ textContent }) => textContent)
-            .filter(Boolean)
-        ).asc(),
+        )
+          .map(({ textContent }) => textContent)
+          .filter(Boolean)
+      ).asc();
+
+      result[element.textContent] = {
+        description: parentElement.nextElementSibling.textContent,
+        count: kaomoji.length,
+        kaomoji,
       };
     }
 
