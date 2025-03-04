@@ -4,6 +4,7 @@
     "script": "node script.js && npx prettier data --write"
   },
   "devDependencies": {
+    "fast-sort": "^3.4.1",
     "jsdom": "^26.0.0",
     "sort-keys": "^5.1.0"
   }
