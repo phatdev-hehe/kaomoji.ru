@@ -1,5 +1,6 @@
 import { JSDOM } from "jsdom";
 import fs from "node:fs";
+import sortKeys from "sort-keys";
 
 // https://github.com/antfu/kaomo/blob/master/scripts/fetch.ts
 Promise.all(
@@ -22,6 +23,9 @@ Promise.all(
         .filter(Boolean);
     }
 
-    fs.writeFileSync(`data/${languageCode}.json`, JSON.stringify(result));
+    fs.writeFileSync(
+      `data/${languageCode}.json`,
+      JSON.stringify(sortKeys(result))
+    );
   })
 );
