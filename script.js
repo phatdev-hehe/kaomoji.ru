@@ -15,20 +15,23 @@ Promise.all(
     for (const element of Array.from(
       dom.window.document.querySelectorAll("h3 > a[name]")
     )) {
-      result[element.textContent] = sort(
-        Array.from(
-          element.parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
-            ".table_kaomoji td > span"
+      result[element.textContent] = {
+        description: element.parentElement.nextElementSibling.textContent,
+        kaomoji: sort(
+          Array.from(
+            element.parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
+              ".table_kaomoji td > span"
+            )
           )
-        )
-          .map(({ textContent }) => textContent)
-          .filter(Boolean)
-      ).asc();
+            .map(({ textContent }) => textContent)
+            .filter(Boolean)
+        ).asc(),
+      };
     }
 
     fs.writeFileSync(
       `data/${languageCode}.json`,
-      JSON.stringify(sortKeys(result))
+      JSON.stringify(sortKeys(result, { deep: true }))
     );
   })
 );
