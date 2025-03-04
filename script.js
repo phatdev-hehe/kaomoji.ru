@@ -19,12 +19,16 @@ Promise.all(
 
       const kaomoji = sort(
         Array.from(
-          parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
-            ".table_kaomoji td > span"
+          new Set(
+            Array.from(
+              parentElement.nextElementSibling.nextElementSibling.querySelectorAll(
+                ".table_kaomoji td > span"
+              )
+            )
+              .map(({ textContent }) => textContent)
+              .filter(Boolean)
           )
         )
-          .map(({ textContent }) => textContent)
-          .filter(Boolean)
       ).asc();
 
       result[element.textContent] = {

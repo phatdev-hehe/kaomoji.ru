@@ -445,7 +445,7 @@
     ]
   },
   "Hiding": {
-    "count": 14,
+    "count": 13,
     "description": "Using character | for hiding emoticons makes them look like if they are peeping from behind the wall hiding from somebody.",
     "kaomoji": [
       "|_・)",
@@ -457,7 +457,6 @@
       "|･ω･)",
       "|･д･)ﾉ",
       "┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
-      "┬┴┬┴┤(･_├┬┴┬┴",
       "┬┴┬┴┤(･_├┬┴┬┴",
       "┬┴┬┴┤･ω･)ﾉ",
       "ヾ(･|",
