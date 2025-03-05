@@ -71,7 +71,7 @@ Promise.all(
             source: `logo/${languageCode}.jpg`,
           },
         },
-        ...Object.entries(result).flatMap(([title, result]) => [
+        ...Object.entries(result).map(([title, result]) => [
           { h2: `${title} <sup>${result.count}</sup>` },
           { p: result.description },
           { code: { content: result.kaomoji.join("\n\n") } },
