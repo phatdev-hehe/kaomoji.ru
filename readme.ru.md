@@ -1,4 +1,8 @@
 
+ - <a href='readme.md'>English</a>
+ - <a href='readme.ru.md'>Русский</a>
+
+
 
 
 Последнее обновление: 04.01.2025
@@ -6,12 +10,6 @@
 
 
 ![](logo/ru.jpg "Каомодзи: японские смайлики")
-
-## Languages
-
-
- - <a href='readme.ru.md'>Русский</a>
- - <a href='readme.md'>English</a>
 
 ## Бег <sup>9</sup>
 

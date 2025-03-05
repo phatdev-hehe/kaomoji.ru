@@ -13,7 +13,7 @@ const get = {
 
 // https://github.com/antfu/kaomo/blob/master/scripts/fetch.ts
 Promise.all(
-  ["ru", "en"].map((languageCode, index, languageCodes) => {
+  ["en", "ru"].map((languageCode, index, languageCodes) => {
     let result = {};
 
     const {
@@ -54,6 +54,14 @@ Promise.all(
       get.readMeFileName(languageCode),
       json2md([
         {
+          ul: languageCodes.map(
+            (languageCode) =>
+              `<a href='${get.readMeFileName(languageCode)}'>${get.languageName(
+                languageCode
+              )}</a>`
+          ),
+        },
+        {
           p: document.querySelector(".updates_table td").childNodes[2]
             .textContent,
         },
@@ -62,15 +70,6 @@ Promise.all(
             title: document.querySelector("title").textContent,
             source: `logo/${languageCode}.jpg`,
           },
-        },
-        { h2: "Languages" },
-        {
-          ul: languageCodes.map(
-            (languageCode) =>
-              `<a href='${get.readMeFileName(languageCode)}'>${get.languageName(
-                languageCode
-              )}</a>`
-          ),
         },
         ...Object.entries(result).flatMap(([title, result]) => [
           { h2: `${title} <sup>${result.count}</sup>` },

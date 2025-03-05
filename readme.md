@@ -1,11 +1,9 @@
+- <a href='readme.md'>English</a>
+- <a href='readme.ru.md'>Русский</a>
+
 Latest update: January 4, 2025
 
 ![](logo/en.jpg "Kaomoji: Japanese Emoticons")
-
-## Languages
-
-- <a href='readme.ru.md'>Русский</a>
-- <a href='readme.md'>English</a>
 
 ## Anger <sup>34</sup>
 
