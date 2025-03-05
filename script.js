@@ -4,11 +4,12 @@ import json2md from "json2md";
 import fs from "node:fs";
 import sortKeys from "sort-keys";
 
-const getLanguageName = (languageCode) =>
-  ({ en: "English", ru: "Русский" }[languageCode]);
-
-const getReadMeFileName = (languageCode) =>
-  ({ en: "readme.md" }[languageCode] ?? `readme.${languageCode}.md`);
+const get = {
+  languageName: (languageCode) =>
+    ({ en: "English", ru: "Русский" }[languageCode]),
+  readMeFileName: (languageCode) =>
+    ({ en: "readme.md" }[languageCode] ?? `readme.${languageCode}.md`),
+};
 
 // https://github.com/antfu/kaomo/blob/master/scripts/fetch.ts
 Promise.all(
@@ -50,7 +51,7 @@ Promise.all(
     fs.writeFileSync(`data/${languageCode}.json`, JSON.stringify(result));
 
     fs.writeFileSync(
-      getReadMeFileName(languageCode),
+      get.readMeFileName(languageCode),
       json2md([
         {
           p: document.querySelector(".updates_table td").childNodes[2]
@@ -59,14 +60,14 @@ Promise.all(
         {
           img: {
             title: document.querySelector("title").textContent,
-            source: `logo_${languageCode}.jpg`,
+            source: `logo/${languageCode}.jpg`,
           },
         },
         { h2: "Languages" },
         {
           ul: languageCodes.map(
             (languageCode) =>
-              `<a href='${getReadMeFileName(languageCode)}'>${getLanguageName(
+              `<a href='${get.readMeFileName(languageCode)}'>${get.languageName(
                 languageCode
               )}</a>`
           ),

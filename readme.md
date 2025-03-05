@@ -1,6 +1,6 @@
 Latest update: January 4, 2025
 
-![](logo_en.jpg "Kaomoji: Japanese Emoticons")
+![](logo/en.jpg "Kaomoji: Japanese Emoticons")
 
 ## Languages
 
