@@ -9,12 +9,12 @@ Promise.all(
   ["ru", "en"].map((languageCode) => {
     let result = {};
 
-    const dom = new JSDOM(
-      fs.readFileSync(`html/${languageCode}.txt`).toString()
-    );
+    const {
+      window: { document },
+    } = new JSDOM(fs.readFileSync(`html/${languageCode}.txt`).toString());
 
     for (const element of Array.from(
-      dom.window.document.querySelectorAll("h3 > a[name]")
+      document.querySelectorAll("h3 > a[name]")
     )) {
       const { parentElement } = element;
 
@@ -48,19 +48,19 @@ Promise.all(
         "readme.md",
         json2md([
           {
-            p: dom.window.document.querySelector(".updates_table td")
-              .childNodes[2].textContent,
+            p: document.querySelector(".updates_table td").childNodes[2]
+              .textContent,
           },
           {
             img: {
-              title: dom.window.document.querySelector("title").textContent,
+              title: document.querySelector("title").textContent,
               source: "logo_en.jpg",
             },
           },
           ...Object.entries(result).flatMap(([title, result]) => [
             { h2: `${title} <sup>${result.count}</sup>` },
-            { blockquote: result.description },
-            { ul: result.kaomoji },
+            { p: result.description },
+            { code: { content: result.kaomoji.join("\n\n") } },
           ]),
         ])
       );
