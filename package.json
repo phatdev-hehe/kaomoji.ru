@@ -1,11 +1,12 @@
 {
   "type": "module",
   "scripts": {
-    "script": "node script.js && npx prettier data --write"
+    "script": "node script.js && npx prettier data readme.md --write"
   },
   "devDependencies": {
     "fast-sort": "^3.4.1",
     "jsdom": "^26.0.0",
+    "json2md": "^2.0.2",
     "sort-keys": "^5.1.0"
   }
 }
