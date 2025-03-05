@@ -2,6 +2,11 @@ Latest update: January 4, 2025
 
 ![](logo_en.jpg "Kaomoji: Japanese Emoticons")
 
+## Languages
+
+- <a href='readme.ru.md'>Русский</a>
+- <a href='readme.md'>English</a>
+
 ## Anger <sup>34</sup>
 
 The secret of angry or evil emoticons is in their eyes. Use `and ´ or ｀ and ´. Just don't change the characters' order, otherwise your angry emoticon will become friendly and kind (compare:` ´ - evil eyes, ´ ` - kind eyes). In addition, you can add "wrinkles" ＃ and their stronger forms: メ or ╬; and 凸 (middle finger) and ψ (claws) as an arm. You can also use "snarl" 皿 or 益.

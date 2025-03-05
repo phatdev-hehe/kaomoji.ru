@@ -4,9 +4,15 @@ import json2md from "json2md";
 import fs from "node:fs";
 import sortKeys from "sort-keys";
 
+const getLanguageName = (languageCode) =>
+  ({ en: "English", ru: "Русский" }[languageCode]);
+
+const getReadMeFileName = (languageCode) =>
+  ({ en: "readme.md" }[languageCode] ?? `readme.${languageCode}.md`);
+
 // https://github.com/antfu/kaomo/blob/master/scripts/fetch.ts
 Promise.all(
-  ["ru", "en"].map((languageCode) => {
+  ["ru", "en"].map((languageCode, index, languageCodes) => {
     let result = {};
 
     const {
@@ -43,26 +49,34 @@ Promise.all(
 
     fs.writeFileSync(`data/${languageCode}.json`, JSON.stringify(result));
 
-    if (languageCode === "en")
-      fs.writeFileSync(
-        "readme.md",
-        json2md([
-          {
-            p: document.querySelector(".updates_table td").childNodes[2]
-              .textContent,
+    fs.writeFileSync(
+      getReadMeFileName(languageCode),
+      json2md([
+        {
+          p: document.querySelector(".updates_table td").childNodes[2]
+            .textContent,
+        },
+        {
+          img: {
+            title: document.querySelector("title").textContent,
+            source: `logo_${languageCode}.jpg`,
           },
-          {
-            img: {
-              title: document.querySelector("title").textContent,
-              source: "logo_en.jpg",
-            },
-          },
-          ...Object.entries(result).flatMap(([title, result]) => [
-            { h2: `${title} <sup>${result.count}</sup>` },
-            { p: result.description },
-            { code: { content: result.kaomoji.join("\n\n") } },
-          ]),
-        ])
-      );
+        },
+        { h2: "Languages" },
+        {
+          ul: languageCodes.map(
+            (languageCode) =>
+              `<a href='${getReadMeFileName(languageCode)}'>${getLanguageName(
+                languageCode
+              )}</a>`
+          ),
+        },
+        ...Object.entries(result).flatMap(([title, result]) => [
+          { h2: `${title} <sup>${result.count}</sup>` },
+          { p: result.description },
+          { code: { content: result.kaomoji.join("\n\n") } },
+        ]),
+      ])
+    );
   })
 );
