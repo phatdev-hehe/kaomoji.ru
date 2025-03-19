@@ -1,4 +1,3 @@
-- <a href='readme.md'>English</a>
 - <a href='readme.ru.md'>Русский</a>
 
 Latest update: January 4, 2025

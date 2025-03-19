@@ -4,16 +4,12 @@ import json2md from "json2md";
 import fs from "node:fs";
 import sortKeys from "sort-keys";
 
-const get = {
-  languageName: (languageCode) =>
-    ({ en: "English", ru: "Русский" }[languageCode]),
-  readMeFileName: (languageCode) =>
-    ({ en: "readme.md" }[languageCode] ?? `readme.${languageCode}.md`),
-};
+const getReadMeFileName = (languageCode) =>
+  ({ en: "readme.md" }[languageCode] ?? `readme.${languageCode}.md`);
 
 // https://github.com/antfu/kaomo/blob/master/scripts/fetch.ts
-Promise.all(
-  ["en", "ru"].map((languageCode, index, languageCodes) => {
+await Promise.all(
+  ["en", "ru"].map(async (languageCode, index, languageCodes) => {
     let result = {};
 
     const {
@@ -48,35 +44,46 @@ Promise.all(
 
     result = sortKeys(result, { deep: true });
 
-    fs.writeFileSync(`data/${languageCode}.json`, JSON.stringify(result));
-
-    fs.writeFileSync(
-      get.readMeFileName(languageCode),
-      json2md([
-        {
-          ul: languageCodes.map(
-            (languageCode) =>
-              `<a href='${get.readMeFileName(languageCode)}'>${get.languageName(
-                languageCode
-              )}</a>`
-          ),
-        },
-        {
-          p: document.querySelector(".updates_table td").childNodes[2]
-            .textContent,
-        },
-        {
-          img: {
-            title: document.querySelector("title").textContent,
-            source: `logo/${languageCode}.jpg`,
+    await Promise.all([
+      fs.promises.writeFile(
+        `data/${languageCode}.json`,
+        JSON.stringify(result)
+      ),
+      fs.promises.writeFile(
+        getReadMeFileName(languageCode),
+        json2md([
+          {
+            ul: languageCodes
+              .filter(
+                (currentLanguageCode) => currentLanguageCode !== languageCode
+              )
+              .map(
+                (languageCode) =>
+                  `<a href='${getReadMeFileName(languageCode)}'>${
+                    {
+                      en: "English",
+                      ru: "Русский",
+                    }[languageCode]
+                  }</a>`
+              ),
           },
-        },
-        ...Object.entries(result).map(([title, result]) => [
-          { h2: `${title} <sup>${result.count}</sup>` },
-          { p: result.description },
-          { code: { content: result.kaomoji.join("\n\n") } },
-        ]),
-      ])
-    );
+          {
+            p: document.querySelector(".updates_table td").childNodes[2]
+              .textContent,
+          },
+          {
+            img: {
+              title: document.querySelector("title").textContent,
+              source: `logo/${languageCode}.jpg`,
+            },
+          },
+          ...Object.entries(result).map(([title, result]) => [
+            { h2: `${title} <sup>${result.count}</sup>` },
+            { p: result.description },
+            { code: { content: result.kaomoji.join("\n\n") } },
+          ]),
+        ])
+      ),
+    ]);
   })
 );
